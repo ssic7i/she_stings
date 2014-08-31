@@ -1,6 +1,6 @@
 # README #
 
-This unit contain some useful funcrions for work with strings in pascal/deplhi/fpc/lazarus
+This unit contain some useful functions for work with strings in pascal/delphi/fpc/Lazarus
 
 
 ### Functions: ###
